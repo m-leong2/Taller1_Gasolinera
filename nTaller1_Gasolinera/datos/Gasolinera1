@@ -1,0 +1,13 @@
+tipo:Extra:20000:100.0
+tipo:Corriente:16000:100.0
+tipo:Premium:17000:100.0
+tipo:Diesel:15000:100.0
+surtidor:Sarah:Extra:0.0:Corriente:0.0:Premium:0.0:Diesel:0.0
+surtidor:Javier:Extra:0.0:Corriente:0.0:Premium:0.0:Diesel:0.0
+surtidor:Diego:Extra:0.0:Corriente:0.0:Premium:0.0:Diesel:0.0
+surtidor:Javier:Extra:0.0:Corriente:0.0:Premium:0.0:Diesel:0.0
+empleado:Javier:0
+empleado:Sarah:0
+empleado:Diego:0
+empleado:Carolina:0
+empleado:Jaime:0
